@@ -13,12 +13,11 @@ This repository contains a proof of concept (PoC) for a Place Picker App built u
 ## Features
 - React hooks
 - State
-- Tailwind CSS
 - Refs & Portals
 - Jsx
-- useRef()
 - Effects
-- useEffect()
+- Fetch Data with Http requests
+- Update data to database
 
 ## Prererequisites
 - Node.js
@@ -27,10 +26,10 @@ This repository contains a proof of concept (PoC) for a Place Picker App built u
 ### installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/edoardolai/PocReactQuizApp.git
+   git clone https://github.com/edoardolai/PocReactHttpRequests.git
 2. Navigate to the project directory:
    ```bash
-   cd PocReactQuizApp
+   cd PocReactHttpRequests
 3. Download dependencies:
    ```bash
    npm install
